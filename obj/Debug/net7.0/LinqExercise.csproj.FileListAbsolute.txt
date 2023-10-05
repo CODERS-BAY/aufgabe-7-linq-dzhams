@@ -1,0 +1,17 @@
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\obj\Debug\net7.0\LinqExercise.csproj.AssemblyReference.cache
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\obj\Debug\net7.0\LinqExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\obj\Debug\net7.0\LinqExercise.AssemblyInfoInputs.cache
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\obj\Debug\net7.0\LinqExercise.AssemblyInfo.cs
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\obj\Debug\net7.0\LinqExercise.csproj.CoreCompileInputs.cache
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\bin\Debug\net7.0\LinqExercise.exe
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\bin\Debug\net7.0\LinqExercise.deps.json
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\bin\Debug\net7.0\LinqExercise.runtimeconfig.json
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\bin\Debug\net7.0\LinqExercise.dll
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\bin\Debug\net7.0\LinqExercise.pdb
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\obj\Debug\net7.0\LinqExercise.csproj.CopyComplete
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\obj\Debug\net7.0\LinqExercise.dll
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\obj\Debug\net7.0\refint\LinqExercise.dll
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\obj\Debug\net7.0\LinqExercise.pdb
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\obj\Debug\net7.0\LinqExercise.genruntimeconfig.cache
+C:\Users\Codersbay\Source\Repos\aufgabe-7-linq-dzhams\obj\Debug\net7.0\ref\LinqExercise.dll
